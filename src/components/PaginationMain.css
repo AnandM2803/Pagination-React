@@ -1,0 +1,25 @@
+
+.App {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+  }
+  .PaginationMain {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+.item-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.item-list li {
+    margin: 10px 0;
+}
+
+  

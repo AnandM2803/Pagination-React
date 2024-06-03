@@ -1,0 +1,11 @@
+/* src/components/ItemList.css */
+.item-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .item-list li {
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  
